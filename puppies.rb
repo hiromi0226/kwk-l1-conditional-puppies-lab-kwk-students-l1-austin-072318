@@ -21,4 +21,6 @@
      
     end
   end 
-  no_puppies
+  
+  def less_puppies
+    if puppies < 
